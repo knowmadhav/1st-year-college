@@ -1,6 +1,6 @@
 // take an input from user and check wether if its capital letter or not.
 import java.util.Scanner;
-public class B_first_alphabet_case_check {
+public class B_first_alphabet_capital_check {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Input the character from (a-z) or (A-Z): ");
