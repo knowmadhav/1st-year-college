@@ -1,6 +1,6 @@
 // input two number, ask from user which operation to perfrom(add,subtract,divide.do it)
 import java.util.Scanner;
-public class A_add_subtract_quotient_using_loops {
+public class A_arithmetic_operation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("input the number:");
